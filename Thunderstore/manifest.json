@@ -1,0 +1,10 @@
+{
+    "name": "FancyHitmarkers",
+    "version_number": "1.1.1",
+    "website_url": "",
+    "description": "Adds yellow hitmarkers to indicate critical hits and red hitmarkers to indicate kills.",
+    "dependencies": [
+      "bbepis-BepInExPack-5.4.2114",
+      "RiskofThunder-HookGenPatcher-1.2.3"
+    ]
+}
