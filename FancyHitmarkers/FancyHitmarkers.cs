@@ -6,7 +6,7 @@ using UnityEngine;
 namespace rubiefawn {
 	[BepInPlugin(PluginGUID, PluginName, PluginVersion)]
 	public class FancyHitmarkers : BaseUnityPlugin {
-		public const string PluginGUID = PluginAuthor + "." + PluginName;
+		public const string PluginGUID = $"{PluginAuthor}.{PluginName}";
 		public const string PluginAuthor = "rubiefawn";
 		public const string PluginName = "FancyHitmarkers";
 		public const string PluginVersion = "1.1.1";
